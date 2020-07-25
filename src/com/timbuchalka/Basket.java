@@ -12,7 +12,7 @@ import java.util.TreeMap;
  * From Tim Buchalka's Complete Java Developer Course
  * Copyright (c) 2015-2016
  * Contact author at:  http://timbuchalka.com
- * 
+ * Direct Update from Github
  */
 public class Basket {
     private final String name;
