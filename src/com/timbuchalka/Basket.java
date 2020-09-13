@@ -13,6 +13,7 @@ import java.util.TreeMap;
  * Copyright (c) 2015-2016
  * Contact author at:  http://timbuchalka.com
  * Direct Update from Github
+ * This is a comment for custom commit
  */
 public class Basket {
     private final String name;
